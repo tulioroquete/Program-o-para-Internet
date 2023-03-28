@@ -1,0 +1,25 @@
+body {
+    background-color: #ddd;
+    color: #444;
+    font-family: helvetica ;
+    line-height: 1.5;
+    width: 60%;
+    margin: 0 auto;
+    padding: 2% 0;
+  }
+  
+  main {
+    background-color: #fff;
+    margin: 50px 10%;
+    padding: 20px;
+    border-radius: 10px;
+  }
+  
+  section {
+    border-top: 1px solid #ccc;
+  }
+  
+  h1, h2 {
+    color: rgb(140, 76, 8);
+  }
+  
